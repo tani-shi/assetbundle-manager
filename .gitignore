@@ -1,0 +1,22 @@
+.DS_Store
+*.swp
+*.swatch
+*.pyc
+~*
+Library
+Temp
+obj
+Logs
+*.pidb
+*.unityproj
+*.csproj
+*.sln
+*.vs
+*.userprefs
+.vscode
+
+# user settings
+ProjectSettings/UnityConnectSettings.asset
+
+# logs
+log/
